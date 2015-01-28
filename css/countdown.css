@@ -1,0 +1,16 @@
+body {
+  background: #333;
+  color: white;
+}
+
+.timer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.timer__value {
+  font-size: 5em;
+  font-family: 'Lato', sans-serif;
+}
